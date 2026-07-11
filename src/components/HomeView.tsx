@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { PROJECTS, STATS, NEWS, EVENTS, SPONSORS, TESTIMONIALS } from '../data';
+import { PROJECTS, STATS, NEWS, EVENTS, SPONSORS } from '../data';
 import { ArrowRight, Star, Calendar, MapPin, Clock, Award, Compass, Zap } from 'lucide-react';
 import { motion } from 'motion/react';
 
